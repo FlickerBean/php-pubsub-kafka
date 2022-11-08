@@ -1,5 +1,5 @@
 {
-  "name": "superbalist/php-pubsub-kafka",
+  "name": "flicker/php-pubsub-kafka",
   "description": "A Kafka adapter for the php-pubsub package",
   "license": "MIT",
   "authors": [
